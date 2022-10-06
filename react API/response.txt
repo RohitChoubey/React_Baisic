@@ -1,0 +1,17 @@
+{
+    "responseCode": "200",
+    "responseMessage": "success",
+    "recordsTotal": "1",
+    "recordsFiltered": "1",
+    "data": [{
+            "isbn_no": "978-9354352492",
+            "book_title": "India that is Bharat: Coloniality, Civilisation, Constitution Hardcover",
+            "language": "English",
+            "product_composition": "Product Composition",
+            "product_form": "Product Form",
+            "author_name": "J Sai Deepak",
+            "publisher_name": "Bloomsbury India (15 August 2021); Bloomsbury India",
+            "publisher_agency": "amazon.com"
+        }
+    ]
+}
